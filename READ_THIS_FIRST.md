@@ -1,7 +1,7 @@
 <table>
    <thead>
       <tr>
-         <th colSpan="2">modresorts-1.0.war</th>
+         <th colSpan="2">ModResorts_war.ear</th>
       </tr>
    </thead>
   <tbody>
@@ -18,7 +18,7 @@
      </tr>
      <tr>
         <td>Total issues</td>
-        <td>1</td>
+        <td>0</td>
      </tr>
      <tr>
         <td>Estimated effort (days)</td>

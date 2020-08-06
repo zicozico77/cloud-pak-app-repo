@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug cloud-pak-app-repo",
+            "request": "attach",
+            "hostName": "127.0.0.1",
+            "projectName": "cloud-pak-app-repo",
+            "timeout": 180000
+        }
+    ]
+}
